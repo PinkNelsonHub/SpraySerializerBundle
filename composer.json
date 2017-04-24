@@ -1,12 +1,12 @@
 {
-    "name": "jurjean/spray-serializer-bundle",
+    "name": "pinknelsonhub/spray-serializer-bundle",
     "require": {
-        "jurjean/spray-serializer": "dev-master",
+        "pinknelsonhub/spray-serializer": "dev-master",
         "symfony/http-foundation": ">=2.0.0"
     },
     "require-dev": {
         "broadway/broadway": ">=0.4.0",
-        "jurjean/spray-bundle-integration": "1.0.*@dev",
+        "pinknelsonhub/spray-bundle-integration": "1.0.*@dev",
         "phpunit/phpunit": ">=4.0.0"
     },
     "suggest": {
